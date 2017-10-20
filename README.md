@@ -15,3 +15,7 @@
 *Links que ajudam a entender a legislação brasileira no que tange impostos e regras.*
 
 * [Planilha para cálculo de ST](/Calculo%20ICMS-STOrig.xlsx) - Planilha exemplificando o cálculo de Substituição Tributária
+
+## Importação de dados
+
+* [odoo_csv_import](https://github.com/Trust-Code/odoo_csv_import/blob/master/README.rst) - Pacote para importação de dados via Odoo API
